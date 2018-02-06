@@ -1,2 +1,4 @@
 # hello-github
-my first github repository
+
+Hello!
+Enjoy Coding and Enjoy Life! 
